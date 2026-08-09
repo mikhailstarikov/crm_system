@@ -16,9 +16,9 @@
 
 ## 📸 Скриншоты
 
-![Главное окно](screenshots/Advertising.png.png)
-![Процесс конвертации](screenshots/Services.png.png)
-![Результат](screenshots/Statistics.png.png)
+![Главное окно](screenshots/Advertising.png)
+![Процесс конвертации](screenshots/Services.png)
+![Результат](screenshots/Statistics.png)
 
 ## Технологии
 
